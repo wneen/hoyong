@@ -6,4 +6,4 @@
 	url = https://github.com/kasundananjaya/mqttandroiddemo.git
 [submodule "mqtt_androidtest"]
 	path = mqtt_androidtest
-	url = ../../kasundananjaya/mqttandroiddemo.git
+	url = https://github.com/kasundananjaya/mqttandroiddemo.git
