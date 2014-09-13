@@ -1,0 +1,3 @@
+[submodule "mqttandroiddemo"]
+	path = mqttandroiddemo
+	url = ../../kasundananjaya/mqttandroiddemo.git
