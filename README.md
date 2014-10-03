@@ -10,11 +10,9 @@ https://github.com/KimDongEon/GreenHouse <-Android client & NyARToolkit
 
 arduino_mqtt.ino
 
-## mosca || mosquitto
+## BrokerServer mosca || mosquitto
 
-mosca=node_modules/mosca/bin/mosca
-
-mosca -v | ./../node_modules/.bin/bunyan
+startmosca.sh
 	
 ##Node.js
 
